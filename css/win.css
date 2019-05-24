@@ -1,0 +1,51 @@
+.TITLE{
+    text-align: center;
+    background-color: rgb(129, 194, 121);
+    font-size: 45px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border:3px;
+    border-style:solid;
+    border-color:black;
+}
+.CONTENT{
+    height: 360px;
+    margin-top: 10px;
+    border:3px;
+    border-style:solid;
+    border-color:black;
+    background-color: rgb(49, 128, 51);
+}
+.button {
+    background-color: #4CAF50;
+    border:3px solid black;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+.button:hover{
+    background-color: rgb(63, 139, 65);
+}
+a:hover{
+    color:rgb(56, 56, 150);
+}
+
+ul{
+    text-align: center;
+    list-style: none;
+    margin-top: 85px;
+ 
+ }
+ li{
+   margin:50px ;
+ }
+
+ .INFO{
+     text-align: center;
+     font-family: Courier New, Courier, monospace;
+     font-size: 35px;
+     color: aliceblue;
+ }
